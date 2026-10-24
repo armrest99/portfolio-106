@@ -44,13 +44,13 @@
   },
   {
     "title": "VEX Robotics 5327V Autonomous Code",
-    "year": "2021-2022",
+    "year": "2021",
     "image": "https://dsc106.com/labs/lab02/images/empty.svg",
     "description": "Developed C++ autonomous robot routines using PROS and EZ-Template for VEX Robotics competitions."
   },
   {
     "title": "VEX Robotics 5327C Autonomous Code",
-    "year": "2022-2023",
+    "year": "2022",
     "image": "https://dsc106.com/labs/lab02/images/empty.svg",
     "description": "Programmed VEX Robotics autonomous systems using C++, PROS, and drivetrain control functions for competition."
   },
@@ -68,7 +68,7 @@
   },
   {
     "title": "VEX Robotics PID Control System",
-    "year": "2021-2023",
+    "year": "2021",
     "image": "https://dsc106.com/labs/lab02/images/empty.svg",
     "description": "Implemented PID control and sensor feedback for VEX robotics motion tracking, improving control speed as part of a team that qualified for VEX Worlds."
   }
