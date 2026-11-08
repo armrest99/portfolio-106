@@ -266,3 +266,12 @@ h6 {
     font-size: 1.25em;
     font-weight: bold;
 }
+
+.gridlines line {
+    stroke: currentColor;
+    stroke-opacity: 0.1;
+}
+
+.gridlines path {
+    display: none;
+}
