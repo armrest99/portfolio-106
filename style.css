@@ -247,3 +247,22 @@ h6 {
     border-radius: 0.5em;
     font: inherit;
 }
+
+.stats {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: 0.75em 2em;
+    align-items: baseline;
+    margin-block: 2em;
+}
+
+.stats dt {
+    color: gray;
+    font-weight: normal;
+}
+
+.stats dd {
+    margin: 0;
+    font-size: 1.25em;
+    font-weight: bold;
+}
